@@ -1,4 +1,4 @@
-# AI Agents from Scratch
+# Multi Agents System
 
 ![AI Agents from Scratch](logo.png)
 
@@ -123,4 +123,5 @@ The **Multi-Agents AI System from Scratch** is a Python-based application levera
 - **Files:**
   - `multi_agent_system.log`: Contains detailed logs for monitoring and debugging.
 - **Configuration:** Logging is handled using the `loguru` library, configured in `utils/logger.py`.
+
 
